@@ -13,7 +13,7 @@ exit
 # Telegram: @Kodiman
 # Spendenlink: https://ko-fi.com/kodimanhimself
 
-# Skript ausführbar machen mit: sudo chmod +x kodi.sh
-# Skript starten mit: sudo sh kodi.sh oder sudo ./kodi.sh
-# Getestet aud Debian / Kali Linux
+# Skript ausführbar machen mit: sudo chmod +x kodi_flatpack.sh
+# Skript starten mit: sudo sh kodi.sh oder sudo ./kodi_flatpack.sh
+# Getestet auf Ubuntu
 
