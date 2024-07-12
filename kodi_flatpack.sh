@@ -2,8 +2,8 @@
 sudo apt update
 sudo apt install flatpak
 flatpak install https://dl.flathub.org/repo/appstream/tv.kodi.Kodi.flatpakref
-sudo flatpak update tv.kodi.Kodi
-sudo apt install kodi-pvr-iptvsimple
+flatpak update tv.kodi.Kodi
+apt install kodi-pvr-iptvsimple
 
 exit
 
